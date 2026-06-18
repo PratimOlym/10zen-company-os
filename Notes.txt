@@ -1,0 +1,3 @@
+If strategy_foundation.md changes rarely,
+
+company_operating_system.md should evolve continuously as the company learns.
