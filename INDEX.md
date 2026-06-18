@@ -144,6 +144,9 @@ executive_deck/
 | slide_specification.md | 🟩 Migrated |
 | visual_storyboard.md   | 🟩 Migrated |
 | speaker_notes.md       | 🟩 Migrated |
+| Website (source)       | [github.com/PratimOlym/10zen-website](https://github.com/PratimOlym/10zen-website) |🟩 |
+| Website (published)    | [10zen.com](https://10zen.com) | 🟩 |
+
 
 ---
 
